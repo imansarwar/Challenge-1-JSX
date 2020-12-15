@@ -9,7 +9,7 @@ ReactDOM.render(
   <>
     <h1 className="head">Iman Sarwar Netflix Picks</h1>
     <p> Current Date = {currentDate}</p>
-    <p> Current Date = {currentTime}</p>
+    <p> Current Time = {currentTime}</p>
     <div className="body">
       <p className="text">Here are my picks for the Netflix Movies</p>
       <ol>
