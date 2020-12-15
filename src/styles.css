@@ -9,6 +9,10 @@
 }
 .body {
   background-color: antiquewhite;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  padding-left: 3px;
+  padding-right: 10px;
 }
 .text {
   color: #0a043c;
