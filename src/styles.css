@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.head {
+  background-color: #0a043c;
+  color: white;
+}
+.body {
+  background-color: antiquewhite;
+}
+.text {
+  color: #0a043c;
+}
